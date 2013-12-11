@@ -1,3 +1,27 @@
 body {
     padding-top: 50px;
 }
+
+.btn-danger {
+	/*border-bottom: 2px solid #AC2925;*/ 
+	border-bottom: 3px solid #B32722 !important
+}
+
+.btn-primary{
+   border-bottom:3px solid #285e8e !important;
+}
+.btn-success{
+   border-bottom:3px solid #398439 !important;
+}
+.btn-info{
+   border-bottom:3px solid #39a0bf !important;
+}
+.btn-warning{
+   border-bottom:3px solid #d58512 !important;
+}
+.btn-danger{
+   border-bottom:3px solid #b32722 !important;
+}
+.btn-primary:active{
+   border-bottom-width: 2px !important;
+}
